@@ -1,0 +1,20 @@
+{
+    "https://rconnect.mskcc.org": {
+        "server_url": "https://rconnect.mskcc.org",
+        "filename": "C:\\Users\\loukanob\\Documents\\PG Model\\data_append_app",
+        "app_url": "https://rconnect.mskcc.org/connect/#/apps/23810199-7998-4868-8f48-7ae32a289a04",
+        "app_id": "23810199-7998-4868-8f48-7ae32a289a04",
+        "app_guid": "23810199-7998-4868-8f48-7ae32a289a04",
+        "title": "data_append_app",
+        "app_mode": "python-streamlit"
+    },
+    "https://tlvistishny1.mskcc.org/": {
+        "server_url": "https://tlvistishny1.mskcc.org/",
+        "filename": "C:\\Users\\loukanob\\Documents\\pg model\\data_append_app",
+        "app_url": "https://tlvistishny1.mskcc.org/connect/#/apps/820a0dd7-9f62-4fc4-9fe2-5cb4c7814a5e",
+        "app_id": "820a0dd7-9f62-4fc4-9fe2-5cb4c7814a5e",
+        "app_guid": "820a0dd7-9f62-4fc4-9fe2-5cb4c7814a5e",
+        "title": "data_append_app",
+        "app_mode": "python-streamlit"
+    }
+}

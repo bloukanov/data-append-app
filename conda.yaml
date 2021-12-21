@@ -1,0 +1,14 @@
+name: data_append_app
+
+# channels:
+# - defaults
+# - conda-forge
+dependencies:
+- python>=3.8
+# - streamlit
+- pandas
+- numpy
+- pip
+- pip:
+  - streamlit
+  # - python==3.8.9
